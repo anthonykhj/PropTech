@@ -1,0 +1,36 @@
+Property 8:
+1: 637 Woodlands Ring Road
+2: Woodlands
+3: North
+4: 730637
+5: EM HDB
+6: 1528
+7: 1998
+8: 4
+9: 3
+10: 850000
+--------------------
+Property 9:
+1: 424 Bedok North Ave 1
+2: Bedok
+3: East
+4: 460424
+5: 3NG HDB
+6: 721
+7: 1978
+8: 2
+9: 2
+10: 380000
+--------------------
+Property 10:
+1: 26 Newton Road
+2: Newton
+3: Central
+4: 307597
+5: Condominium
+6: 1000
+7: 2015
+8: 1
+9: 2
+10: 1860000
+--------------------
